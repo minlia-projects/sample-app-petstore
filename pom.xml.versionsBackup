@@ -33,7 +33,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <addResources>true</addResources>
-                    <mainClass>com.microsoft.crm.v1.Application</mainClass>
+                    <mainClass>Application</mainClass>
                 </configuration>
                 <executions>
                     <execution>

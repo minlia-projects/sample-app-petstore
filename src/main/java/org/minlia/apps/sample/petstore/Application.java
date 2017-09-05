@@ -1,4 +1,4 @@
-package com.microsoft.crm.v1;
+package org.minlia.apps.sample.petstore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
